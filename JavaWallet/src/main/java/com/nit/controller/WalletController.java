@@ -42,4 +42,3 @@ public class WalletController {
         return ResponseEntity.ok(walletService.getTransactionHistory(userId));
     }
 }
-
