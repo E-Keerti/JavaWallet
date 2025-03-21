@@ -76,4 +76,3 @@ public class WalletService {
         return transactionRepository.findByUserId(userId);
     }
 }
-
