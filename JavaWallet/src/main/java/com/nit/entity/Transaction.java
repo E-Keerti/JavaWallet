@@ -5,6 +5,8 @@ import jakarta.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
+//Token-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
+
 @Entity
 @Table(name = "transactions")
 public class Transaction {
